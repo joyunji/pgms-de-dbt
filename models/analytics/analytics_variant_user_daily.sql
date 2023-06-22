@@ -1,6 +1,7 @@
 {{
  config(
  materialized = 'table'
+ )
 }}
 
 WITH u AS (
